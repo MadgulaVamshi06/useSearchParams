@@ -8,7 +8,7 @@ Realized that query parameters allow for dynamic navigation within the applicati
 Explored how to update the URL and trigger re-renders based on query parameter changes.
 Recognized the role of query parameters in maintaining application state across different routes.
 
-Handling User Input and User Experience
+Handling User Input and User Experience :
 Considered user input scenarios, such as selecting categories or sorting options.
 Implemented logic to handle user interactions (e.g., selecting a category or changing sorting order).
 Improved the overall user experience by providing relevant content based on query parameters.
